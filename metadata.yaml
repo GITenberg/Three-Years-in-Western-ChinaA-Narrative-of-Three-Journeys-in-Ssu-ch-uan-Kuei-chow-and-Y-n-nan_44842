@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42942'
     url: http://www.gutenberg.org/2009/agents/42942
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44842#Three-Years-in-Western-ChinaA-Narrative-of-Three-Journeys-in-Ssu-ch-uan-Kuei-chow-and-Y-n-nan
 gutenberg_issued: '2014-02-08'
 gutenberg_type: Text
 identifiers:
