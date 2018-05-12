@@ -1,0 +1,31 @@
+_repo: Three-Years-in-Western-ChinaA-Narrative-of-Three-Journeys-in-Ssu-ch-uan-Kuei-chow-and-Y-n-nan_44842
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44842-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hosie, Alexander, Sir
+    alias: Hosie, A., Sir (Alexander)
+    birthdate: 1853
+    deathdate: 1925
+    gutenberg_agent_id: '42942'
+    url: http://www.gutenberg.org/2009/agents/42942
+description: ''
+gutenberg_issued: '2014-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44842'
+  lccn: '33004639'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Black Hmong dialect'
+- !lcsh 'China -- Description and travel'
+- !lcc 'DS'
+title: 'Three Years in Western China
+
+  A Narrative of Three Journeys in Ssu-ch''uan, Kuei-chow, and Yün-nan'
+url: http://www.gutenberg.org/ebooks/44842
